@@ -8,7 +8,7 @@ def create_app():
     def home():
         return 'Hi Devops Geeks Welcome to the class123 New Data 123456 New PR'
 
-    return app
+
 
     
 if __name__ == '__main__':
